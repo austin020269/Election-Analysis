@@ -1,6 +1,7 @@
 # Election-Analysis
 ## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
+## Resources
 
 Calculate the total number of votes cast.
 Get a complete list of candidates who received votes.
