@@ -4,9 +4,10 @@
 ## Project Overview
 In this study we utilized python coding to analyze election results for a Colorado Board of Elections employee.  Specifically, we analyzed the total number of votes cast, the list of candidates who received votes, the total number of votes each candidate received, the percentage of votes each candidate won and the winner of the election based on popular vote.   This analysis was done by creating files PyPoll.py and PyPoll_Challenge.py in Visual Studio that accessed the election data, ran the analysis and wrote the results to text files election_analysis.txt and election_results.txt. 
 
-## Resources
-- Data Source: election_results.csv
-- Software: Python 3.8.0, Visual Studio Code 1.40.2
+## Resources and Analysis
+Resources provided for the project included the election_results.csv file that held all the election information to analyze.  We ran our python code through Visual Studio 1.40.2 which utilized Python 3.7.6 to run on our code as seen below.
+
+
 
 ## Summary
 The analysis of the election shows:
