@@ -26,7 +26,7 @@ Winning Percentage: 73.8%
 ![alt text](https://github.com/austin020269/Election-Analysis/blob/main/election_results.PNG)
 
 ## Challenge Overview
-Similarly, the the challenge required outputting the total vote and total vote percentage for all counties involved in the election as shown below.
+The challenge also required outputting the total vote and total vote percentage for all counties involved in the election as shown below.
 
 ## Challenge Summary
 
