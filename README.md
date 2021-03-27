@@ -7,7 +7,7 @@ In this study we utilized python coding to analyze election results for a Colora
 ## Resources and Analysis
 Resources provided for the project included the election_results.csv file that held all the election information to analyze.  We ran our python code through Visual Studio 1.40.2 which utilized Python 3.7.6 to run on our code as seen below.
 
-![alt text](https://github.com/austin020269/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+![alt text](https://github.com/austin020269/Election-Analysis/blob/main/PyPoll_Challenge.py)
 
 
 
