@@ -23,8 +23,6 @@ Winner: Diana DeGette
 Winning Vote Count: 272,892  
 Winning Percentage: 73.8%
 
-![alt text](https://github.com/austin020269/Election-Analysis/blob/main/election_results.PNG)
-
 ## Challenge Overview
 The challenge also required outputting the total vote and total vote percentage for all counties involved in the election as shown below.
 
@@ -36,4 +34,8 @@ Denver: 82.8% (306,055)
 Arapahoe: 6.7% (24,801)  
 
 Largest County Turnout: Denver
+
+![alt text](https://github.com/austin020269/Election-Analysis/blob/main/election_results.PNG)
+
+
 
