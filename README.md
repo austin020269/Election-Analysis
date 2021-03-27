@@ -10,7 +10,7 @@ Resources provided for the project included the election_results.csv file ( that
 ![alt text](https://github.com/austin020269/Election-Analysis/blob/main/PyPoll_Challenge.PNG)
 
 
-## Summary
+## Summary of Results
 The analysis of the election gave the following results.
 
 Total Votes: 369,711
