@@ -23,6 +23,8 @@ Winner: Diana DeGette
 Winning Vote Count: 272,892  
 Winning Percentage: 73.8%
 
+![alt text](https://github.com/austin020269/Election-Analysis/blob/main/election_results.PNG)
+
 ## Challenge Overview
 The challenge required outputting the vote total and vote percentage for all counties involved in the election.
 
