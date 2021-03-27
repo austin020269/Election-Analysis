@@ -11,7 +11,7 @@ Resources provided for the project included the election_results.csv file ( that
 
 
 ## Summary
-The analysis of the election shows:
+The analysis of the election gave the following results.
 
 Total Votes: 369,711
 
@@ -26,7 +26,7 @@ Winning Percentage: 73.8%
 ![alt text](https://github.com/austin020269/Election-Analysis/blob/main/election_results.PNG)
 
 ## Challenge Overview
-Similarly, the the challenge required outputting the vote total and vote percentage for all counties involved in the election.
+Similarly, the the challenge required outputting the total vote and total vote percentage for all counties involved in the election as shown below.
 
 ## Challenge Summary
 
